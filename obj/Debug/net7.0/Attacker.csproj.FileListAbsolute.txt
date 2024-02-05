@@ -1,0 +1,15 @@
+D:\GitHubProjects\Attacker\bin\Debug\net7.0\Attacker.exe
+D:\GitHubProjects\Attacker\bin\Debug\net7.0\Attacker.deps.json
+D:\GitHubProjects\Attacker\bin\Debug\net7.0\Attacker.runtimeconfig.json
+D:\GitHubProjects\Attacker\bin\Debug\net7.0\Attacker.dll
+D:\GitHubProjects\Attacker\bin\Debug\net7.0\Attacker.pdb
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.csproj.AssemblyReference.cache
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.AssemblyInfoInputs.cache
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.AssemblyInfo.cs
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.dll
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\refint\Attacker.dll
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.pdb
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\Attacker.genruntimeconfig.cache
+D:\GitHubProjects\Attacker\obj\Debug\net7.0\ref\Attacker.dll
